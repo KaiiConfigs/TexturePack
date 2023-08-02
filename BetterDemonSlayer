@@ -3,7 +3,7 @@
 				local Workspace = game:GetService("Workspace")
 				
 				-- Importing the textures
-				local objs = game:GetObjects("rbxassetid://14276132157")
+				local objs = game:GetObjects("rbxassetid://14291792211")
 				local import = objs[1]
 				import.Parent = ReplicatedStorage
 				
